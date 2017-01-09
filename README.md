@@ -1,0 +1,2 @@
+# JF-Android-Java_demos
+这是一个随着google发展持续更新的Android java编码示例集合和安卓开发笔记，帮助快速开发Android java应用，您在编写Android应用的时候可以直接从该项目中复制代码加快开发速度。
