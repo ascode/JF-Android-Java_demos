@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">JF-Android-Java_demos</string>
+    <string name="main_btn1">使用自定义view</string>
+    <string name="main_btn2">待续</string>
 </resources>
