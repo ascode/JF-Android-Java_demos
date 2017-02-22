@@ -7,6 +7,8 @@
         android:maxSdkVersion="23"
         android:targetSdkVersion="23">
     </uses-sdk>
+    
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 
     <application
         android:allowBackup="true"
@@ -21,9 +23,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CustomerViewActivity"></activity>
+        <activity android:name=".CustomerViewActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"></activity>
         <activity android:name=".CustomerViewWithLayoutActivity"></activity><!-- ATTENTION: This was auto-generated to add Google Play services to your project for
      App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+        <activity android:name=".MoreViewActivity"></activity>
+        <activity android:name=".ThreadDemoActivity"></activity>
+        <activity android:name=".AsyncTaskDemoActivity"></activity>
+        <activity android:name=".RestfulDemoActivity"></activity>
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />

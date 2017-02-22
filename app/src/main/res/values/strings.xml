@@ -2,4 +2,13 @@
     <string name="app_name">JF-Android-Java_demos</string>
     <string name="main_btn1">使用自定义view(纯代码)</string>
     <string name="main_btn2">使用自定义view(布局文件)</string>
+    <string name="main_btn3">assets操作</string>
+    <string name="main_btn4">使用列表控件</string>
+    <string name="main_btn5">使用富文本控件</string>
+    <string name="main_btn6">播放音乐文件</string>
+    <string name="main_btn7">加载图片</string>
+    <string name="main_btn8">弹出模态背景透明窗口</string>
+    <string name="main_btn9">线程</string>
+    <string name="main_btn10">AsyncTask</string>
+    <string name="main_btn11">Restful Api增删改查</string>
 </resources>
